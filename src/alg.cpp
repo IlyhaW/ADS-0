@@ -8,5 +8,5 @@ int gcd(int a, int b) {
         else
             b -= a;
     return a + b;
-}
+    }
 }
